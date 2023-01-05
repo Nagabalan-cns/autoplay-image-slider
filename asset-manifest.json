@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/autoplay-image-slider/static/css/main.ac39ace2.css",
+    "main.js": "/autoplay-image-slider/static/js/main.40000180.js",
+    "static/js/787.92e6f27d.chunk.js": "/autoplay-image-slider/static/js/787.92e6f27d.chunk.js",
+    "static/media/bumrah.jpg": "/autoplay-image-slider/static/media/bumrah.d35a4f9c2e25128d2095.jpg",
+    "static/media/sky.jpg": "/autoplay-image-slider/static/media/sky.99385bca81fe78b3339d.jpg",
+    "static/media/kl rahul.jpg": "/autoplay-image-slider/static/media/kl rahul.236b03a025f893103822.jpg",
+    "static/media/bhuvi.jpg": "/autoplay-image-slider/static/media/bhuvi.62ccb15e584a7c1fbafa.jpg",
+    "static/media/dhoni.jpg": "/autoplay-image-slider/static/media/dhoni.eab6b495a9dbe8d341d2.jpg",
+    "static/media/harthik.jpg": "/autoplay-image-slider/static/media/harthik.f85096ffeaa29d26dd05.jpg",
+    "static/media/kohli.jpg": "/autoplay-image-slider/static/media/kohli.f5db8395215efa5ce352.jpg",
+    "static/media/chahal.jpg": "/autoplay-image-slider/static/media/chahal.a062ef53c2d97acb2562.jpg",
+    "static/media/rohit.jpg": "/autoplay-image-slider/static/media/rohit.be51aaf80004049743e4.jpg",
+    "static/media/jadaja.jpg": "/autoplay-image-slider/static/media/jadaja.889d9c93dd3435392c39.jpg",
+    "static/media/dk.jpg": "/autoplay-image-slider/static/media/dk.ca8527e880aee985a3ac.jpg",
+    "index.html": "/autoplay-image-slider/index.html",
+    "main.ac39ace2.css.map": "/autoplay-image-slider/static/css/main.ac39ace2.css.map",
+    "main.40000180.js.map": "/autoplay-image-slider/static/js/main.40000180.js.map",
+    "787.92e6f27d.chunk.js.map": "/autoplay-image-slider/static/js/787.92e6f27d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac39ace2.css",
+    "static/js/main.40000180.js"
+  ]
+}
